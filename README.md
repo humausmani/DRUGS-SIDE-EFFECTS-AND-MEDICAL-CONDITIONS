@@ -8,18 +8,22 @@
 - [KEY INSIGHTS](#KEYINSIGHTS)
 - [CONCLUSION](#CONCLUSION)
 
-## PROJECT OVERVIEW
+## PROJECT OVERVIEW:
 
 This Project involves the analysis of a dataset containing information about various drugs, their side effects, and the medical conditions. Also,This dataset provieds the review and rating of consumers about their conditions and the medicines that they have used. Thus, this data analysis project aims to provide insights on understanding the various aspects of Drugs based on medical conditions.
 
 ![image](https://github.com/user-attachments/assets/f3c3a578-f212-4c90-9cc2-f9d8b4c495d9)
 
+## Project Link:
 
-## DATA SOURCE
+https://1drv.ms/x/c/0110e6040e2b2a7e/EXBxHMSeoxFPnKDAdkynajYBjrGHlSrLDccWHkML9qsGTg?e=gbIwh9
+
+
+## DATA SOURCE:
 
 The Primary dataset used for this analysis is "Drugs,Side Effects and Medical condition arrow_drop_up" which is a Microsoft Excel Comma Seperated Value(CVS) File provided by "Unified Mentor" for Internship.
 
-## TOOLS
+## TOOLS:
 
 ### EXCEL
 
@@ -29,7 +33,7 @@ The Primary dataset used for this analysis is "Drugs,Side Effects and Medical co
 - Data Analysis- Pivot Tables
 - Visualizing / Dashboard- Charts, Slicer
 
-## EXPLORATORY DATA ANALYSIS
+## EXPLORATORY DATA ANALYSIS:
 
 - Are there differences in Drugs on the basis of Prescription needed, and over the counter or prescription not needed?
 - Analysing Drugs on the basis of Interaction with Alcohol?
